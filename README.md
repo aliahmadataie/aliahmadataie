@@ -23,9 +23,9 @@ Driven by innovation, I am always eager to explore new technologies and enhance 
 # Contact Me:
 
 
-- 📫 How to reach me: <a href="mailto:ataie.dev@gmail.com">ataie.dev@gmail.com</a>
+- 📫 How to reach me: <a href="mailto:hello@ataie.dev">hello@ataie.dev</a>
 
-- 🌐 Personal portfolio: <a href="https://ataie.vercel.app" target="_blank">Portfolio</a>
+- 🌐 Personal portfolio: <a href="https://ataie.dev" target="_blank">Portfolio</a>
 
 - 💬 Ask me about Python / Django, JavaScript / ReactJS
 
