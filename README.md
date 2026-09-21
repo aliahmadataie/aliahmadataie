@@ -1,61 +1,61 @@
-# Hi there 👋
-My name is Ali Ahmad Ataie.
+# Hi, I'm Ali Ahmad Ataie 👋
 
-With expertise in Odoo ERP, React, Next.js, and Django, I have developed and customized ERP systems, authentication platforms, and online booking systems.
-Driven by innovation, I am always eager to explore new technologies and enhance business operations with tailored digital solutions. Let’s build something amazing together!
+I'm a **Full-Stack Software Developer** working across frontend, backend, and business software development.
 
-<!--
-**iamaliataie/iamaliataie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- 🖥️ Current Software Developer at: <a href="https://netlinks.net" target="_blank">Netlinks</a>
-<img src="https://raw.githubusercontent.com/iamaliataie/iamaliataie/main/Frame%202.jpg " width="350" align="right">
-- ⚡ Fun fact: in love with sleeping
-- ![](https://komarev.com/ghpvc/?username=iamaliataie)
-- 🔭 I’m currently working on <a href="https://github.com/iamaliataie/vue-dashboard" target="_blank">Real Estate Management using Vue</a>
-- 🌱 I’m currently learning VueJs and NuxtJs
--->
+I enjoy turning complex requirements into well-structured, reliable software — from modern web applications and APIs to ERP systems and internal business platforms.
 
-<br/>
+My work is primarily centered around the **Python and TypeScript ecosystems**, with a strong interest in software architecture, scalable systems, clean code, and great user experiences.
 
-# Contact Me:
+### What I work with
 
+* ⚙️ **Backend Development** — Django, Django REST Framework, NestJS
+* 🎨 **Frontend Development** — React, Next.js, TypeScript, Tailwind CSS
+* 🏢 **Business Systems & ERP** — Odoo, business workflows, automation
+* 🗄️ **Data & Infrastructure** — PostgreSQL, Redis, Docker
+* 🧩 **Engineering** — REST APIs, system architecture, authentication, background jobs, integrations
 
-- 📫 How to reach me: <a href="mailto:hello@ataie.dev">hello@ataie.dev</a>
+## 🛠 Tech Stack
 
-- 🌐 Personal portfolio: <a href="https://ataie.dev" target="_blank">Portfolio</a>
+### Languages
 
-- 💬 Ask me about Python / Django, JavaScript / ReactJS
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
 
-<br/>
+### Frontend
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 	![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
 
-<br/>
+### Backend & Business Systems
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iamaliataie&theme=dark&count_private=true&show_icons=true&icon_color=2f80ed)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=iamaliataie&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamaliataie&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square\&logo=django\&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat-square\&logo=django\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square\&logo=nestjs\&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square\&logo=odoo\&logoColor=white)
 
-<br/>
+### Data & Infrastructure
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamalialiataie) 
-<!--
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamaliataie) 
-![Ali's github stats](https://github-readme-stats.vercel.app/api?username=iamaliataie&theme=dark&count_private=true&show_icons=true&icon_color=2f80ed)
-<br/>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=iamaliataie&theme=radical&no-frame=false&no-bg=false&margin-w=4)
--->
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 
-<br/>
+## Beyond the code
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I care about more than making software work. I value thoughtful architecture, maintainable codebases, good developer experience, and interfaces that feel polished and intentional.
 
-<a href="" align='center'><img src="https://raw.githubusercontent.com/Iqbal-Elham/Iqbal-Elham/f61edd9e2c5ca47c853c9ff5e018b225cc54fc2d/contributions.svg"></a>
+I'm continuously exploring better ways to design and build software that can evolve as products and businesses grow.
+
+## 📫 Let's connect
+
+I'm always happy to connect with developers, teams, and people building interesting things.
+
+* 🌐 **Website:** [ataie.dev](https://ataie.dev)
+* ✉️ **Email:** [hello@ataie.dev](mailto:hello@ataie.dev)
+* 💼 **LinkedIn:** [linkedin.com/in/iamalialiataie](https://linkedin.com/in/iamalialiataie)
+
+---
+
+<sub>Building software with a focus on simplicity, reliability, and long-term maintainability.</sub>
