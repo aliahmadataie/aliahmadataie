@@ -54,7 +54,7 @@ I'm always happy to connect with developers, teams, and people building interest
 
 * 🌐 **Website:** [ataie.dev](https://ataie.dev)
 * ✉️ **Email:** [hello@ataie.dev](mailto:hello@ataie.dev)
-* 💼 **LinkedIn:** [linkedin.com/in/iamalialiataie](https://linkedin.com/in/iamalialiataie)
+* 💼 **LinkedIn:** [linkedin.com/in/aliahmadataie](https://linkedin.com/in/aliahmadataie)
 
 ---
 
