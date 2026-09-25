@@ -59,3 +59,9 @@ I'm always happy to connect with developers, teams, and people building interest
 ---
 
 <sub>Building software with a focus on simplicity, reliability, and long-term maintainability.</sub>
+
+<!-- readme-automator:start -->
+
+_Last automated refresh: September 25, 2026_
+
+<!-- readme-automator:end -->
